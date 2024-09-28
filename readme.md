@@ -73,6 +73,9 @@
    <li>
     C++
   </li>
+  <li>
+    JavaScript
+  </li>
    <li>
     Python
   </li>
