@@ -22,11 +22,11 @@
 
 <p align="center">
   <a href="https://x.com/_Abhiroop_" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/twitter.svg" alt="Twitter Logo" width="20" height="20"/> Twitter
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Logo" /> Twitter
   </a>
   &emsp;
   <a href="https://discordapp.com/users/429699609997213736" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/discord.svg" alt="Discord Logo" width="20" height="20"/> Discord
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Logo" /> Discord
   </a>
 </p>
 
@@ -42,27 +42,27 @@
 
 ### Experienced
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cplusplus.svg" alt="C++ Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/c.svg" alt="C Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/opengl.svg" alt="OpenGL Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/microsoftwindows.svg" alt="Windows Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/visualstudio.svg" alt="Visual Studio Logo" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Logo"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Logo"/>
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL Logo"/>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"/>
+  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Logo"/>
 </p>
 
 ### Proficient
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/python.svg" alt="Python Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/github.svg" alt="GitHub Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/adobephotoshop.svg" alt="Photoshop Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/davinciresolve.svg" alt="DaVinci Resolve Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/cmake.svg" alt="CMake Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/blender.svg" alt="Blender Logo" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Logo"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Logo"/>
+  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop Logo"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-FCC624?style=for-the-badge&logo=davinciresolve&logoColor=black" alt="DaVinci Resolve Logo"/>
+  <img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" alt="CMake Logo"/>
+  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender Logo"/>
 </p>
 
 ### Entry-Level
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/linux.svg" alt="Linux Logo" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/unity.svg" alt="Unity Logo" width="40" height="40"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"/>
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Logo"/>
 </p>
 
 # Community Projects I Have Worked On
