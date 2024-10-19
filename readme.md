@@ -7,13 +7,13 @@
 </h2>
 
 <h3 align="center">
-  <samp>&gt; Hey There!, I am <b><a target="_blank" href="">Abhirup</a></b></samp>
+  <samp style="color: #00ff00; font-family: 'Courier New', Courier, monospace;">root@linux:~$ I am Abhirup!</samp>
 </h3>
 
 ---
 
 <p align="left">
-🌱 Graduated with a Master degree in Computer Applications, interested in Game Development, Embedded Systems and Web Development.<br>
+🌱 Graduated with a Master degree in Computer Applications, interested in Game Development, Embedded Systems and Web Development. <br>
 🌱 Open to new opportunities, especially in computer graphics.<br>
 💬 Ask me about anything related to web development, OpenGL, or game dev!<br>
 📫 Feel free to connect with me on <a href="https://x.com/_Abhiroop_">Twitter</a> or <a href="https://discordapp.com/users/429699609997213736">Discord</a>!<br>
@@ -38,16 +38,33 @@
 
 ### Tools I Use (Skills) 🛠️
 
-<p align="left">
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Logo"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Logo"/>
-  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL Logo"/>
-  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows Logo"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux Logo"/>
-  <img src="https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white" alt="Blender Logo"/>
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="Visual Studio Logo"/>
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" alt="Photoshop Logo"/>
-</p>
+### Proficient
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender Logo" width="40" height="40" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop " width="40" height="40" style="border-radius: 50%;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP " width="40" height="40" style="border-radius: 50%;" />
+
+### Intermediate
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40" height="40" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL " width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB " width="40" height="40"  />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt="GNU Logo" width="40" height="40" style="border-radius: 50%;" />
+  <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="Node.js" width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"  />
+<img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js Logo" width="40" height="40"  />
+  
+### Beginner
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40" style="border-radius: 50%;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize Logo" width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" style="border-radius: 50%;" />
 
 ---
 
