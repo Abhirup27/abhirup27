@@ -13,7 +13,7 @@
 ---
 
 <p align="left">
-🌱 Graduated in Computer Science, interested in Game Development, Embedded Systems and Web Development.<br>
+🌱 Graduated with a Master degree in Computer Applications, interested in Game Development, Embedded Systems and Web Development.<br>
 🌱 Open to new opportunities, especially in computer graphics.<br>
 💬 Ask me about anything related to web development, OpenGL, or game dev!<br>
 📫 Feel free to connect with me on <a href="https://x.com/_Abhiroop_">Twitter</a> or <a href="https://discordapp.com/users/429699609997213736">Discord</a>!<br>
