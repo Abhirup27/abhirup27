@@ -40,31 +40,15 @@
 
 ### Proficient
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender Logo" width="40" height="40" style="border-radius: 50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40" style="border-radius: 50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop " width="40" height="40" style="border-radius: 50%;" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP " width="40" height="40" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender Logo" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop " width="40" height="40" style="border-radius: 50%;" /><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP " width="40" height="40" style="border-radius: 50%;" />
 
 ### Intermediate
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40" height="40" style="border-radius: 50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL " width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB " width="40" height="40"  />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt="GNU Logo" width="40" height="40" style="border-radius: 50%;" />
-  <img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="Node.js" width="40" height="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"  />
-<img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js Logo" width="40" height="40"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL " width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB " width="40" height="40"  /><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt="GNU Logo" width="40" height="40" style="border-radius: 50%;" /><img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="Node.js" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"  /><img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js Logo" width="40" height="40"  />
   
 ### Beginner
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40" style="border-radius: 50%;" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="border-radius: 50%;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize Logo" width="40" height="40"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize Logo" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" style="border-radius: 50%;" />
 
 ---
 
