@@ -67,7 +67,7 @@
   </a>
 
 ---
-[**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Resume%20rev4%20.pdf)
+[**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Resume%20.pdf)
 ---
 ### GitHub Stats
 
