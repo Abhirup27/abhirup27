@@ -35,7 +35,8 @@
 </p>
 
 ---
-
+[**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Full_Stack_Resume.pdf)
+---
 ### Tools I Use (Skills) 🛠️
 
 ### Proficient
@@ -67,8 +68,7 @@
   </a>
 
 ---
-[**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Resume%20.pdf)
----
+
 ### GitHub Stats
 
 <p align="center">
