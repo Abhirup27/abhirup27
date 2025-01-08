@@ -35,7 +35,7 @@
 </p>
 
 ---
-[**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Full_Stack_Resume.pdf)
+[**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Resume_rev_10.pdf)
 ---
 ### Tools I Use (Skills) 🛠️
 
