@@ -55,7 +55,7 @@
 
 ### Community Projects I Have Worked On 🌍
 
-- [**Lowest Level Dungeon**](https://github.com/meemknight/lowestleveldungeon): A top down dungeon crawler game. roguelite. I worked on the map generation, and the tile placement logic.
+- [**Lowest Level Dungeon**](https://github.com/meemknight/lowestleveldungeon): I worked on the map generation, and the tile placement logic.
 
   <a href="https://github.com/meemknight/lowestleveldungeon">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=meemknight&repo=lowestleveldungeon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Lowest Level Dungeon"/>
