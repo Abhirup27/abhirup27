@@ -14,8 +14,8 @@
 
 <p align="left">
 🌱 Graduated with a Master degree in Computer Applications, interested in Game Development, Embedded Systems and Web Development. <br>
-🌱 Open to new opportunities, especially in computer graphics.<br>
-💬 Ask me about anything related to web development, OpenGL, or game dev!<br>
+🌱 Open to new opportunities.<br>
+💬 Ask me about anything related to web or game development!<br>
 📫 Feel free to connect with me on <a href="https://x.com/_Abhiroop_">Twitter</a> or <a href="https://discordapp.com/users/429699609997213736">Discord</a>!<br>
 <!-- 🌍 Check out my portfolio <a href="https://Abhirup.com">here</a>. --!>
 </p>
