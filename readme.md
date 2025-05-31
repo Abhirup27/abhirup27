@@ -21,7 +21,7 @@
 </p>
 
 ---
-[**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Resume_rev_10.pdf)
+[**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Resume.pdf)
 ---
 
 ### My most recent project
