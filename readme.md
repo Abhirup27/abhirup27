@@ -37,6 +37,17 @@
 ---
 [**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Resume_rev_10.pdf)
 ---
+---
+
+### My most recent project
+
+- [**Shopify Store Management App**](https://github.com/Abhirup27/shopify_app): Backend project built using TypeScript, NodeJS, NestJS, ExpressJS, GraphQL, Redis, BullMQ, postgreSQL.
+
+  <a href="https://github.com/Abhirup27/shopify_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirup27&repo=shopify_app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Shopify Store Management App"/>
+  </a>
+
+---
 ### Tools I Use (Skills) 🛠️
 
 ### Proficient
