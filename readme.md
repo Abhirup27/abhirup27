@@ -24,6 +24,15 @@
 [**My Resume**](https://github.com/Abhirup27/abhirup27/blob/main/Resume_rev_10.pdf)
 ---
 
+### My most recent project
+
+- [**Shopify Store Management App**](https://github.com/Abhirup27/shopify_app): Backend project built using TypeScript, NodeJS, NestJS, ExpressJS, GraphQL, Redis, BullMQ, postgreSQL.
+
+  <a href="https://github.com/Abhirup27/shopify_app">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirup27&repo=shopify_app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Shopify Store Management App"/>
+  </a>
+
+---
 ### Contact me 📫
 
 <p align="left">
@@ -35,16 +44,6 @@
   <img alt="Roop | Discord" width="30px" src="https://camo.githubusercontent.com/8930560b7fec71d3103e26003eef2ce06a657c04d69340814ef134e41ab01e23/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f646973636f72642d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/color/344/discord-logo.png" style="max-width: 100%;">
   </a>
 </p>
-
----
-
-### My most recent project
-
-- [**Shopify Store Management App**](https://github.com/Abhirup27/shopify_app): Backend project built using TypeScript, NodeJS, NestJS, ExpressJS, GraphQL, Redis, BullMQ, postgreSQL.
-
-  <a href="https://github.com/Abhirup27/shopify_app">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirup27&repo=shopify_app&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Shopify Store Management App"/>
-  </a>
 
 ---
 ### Tools I Use (Skills) 🛠️
