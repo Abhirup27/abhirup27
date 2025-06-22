@@ -16,7 +16,7 @@
 🌱 Graduated with a Master degree in Computer Applications, interested in Game Development, Web Development and Embedded Systems(microcontrollers / SBCs). <br>
 🌱 Open to new opportunities.<br>
 💬 Ask me about anything related to web or game development!<br>
-📫 Feel free to connect with me on <a href="https://x.com/_Abhiroop_">Twitter</a> or <a href="https://discordapp.com/users/429699609997213736">Discord</a>!<br>
+📫 Feel free to connect with me on <a href="https://x.com/ab27roop">Twitter</a> or <a href="https://discordapp.com/users/429699609997213736">Discord</a>!<br>
 <!-- 🌍 Check out my portfolio <a href="https://Abhirup.com">here</a>. --!>
 </p>
 
@@ -36,7 +36,7 @@
 ### Contact me 📫
 
 <p align="left">
-  <a href="https://x.com/_Abhiroop_">
+  <a href="https://x.com/ab27roop">
    <img  alt="Abhirup | Twitter" width="30px" src="https://camo.githubusercontent.com/9bcbd9a3ec9d12f94179b217cbfa8404485d08e7abc05752a1ce6f532f9565c4/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f747769747465722d2d76312e706e67" data-canonical-src="https://img.icons8.com/color/344/twitter--v1.png" style="max-width: 100%;">
   </a>
   &emsp;
