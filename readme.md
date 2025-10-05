@@ -45,7 +45,7 @@
   </a>
 </p>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/429699609997213736?hideDecoration=false&animatedDecoration=true)](https://discord.com/users/429699609997213736)
+[![Discord Presence](https://lanyard.cnrad.dev/api/429699609997213736?hideDecoration=false&animatedDecoration=true&idleMessage="I am offline")](https://discord.com/users/429699609997213736)
 
 ---
 ### Tools I Use (Skills) 🛠️
