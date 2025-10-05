@@ -44,7 +44,9 @@
   <img alt="Roop | Discord" width="30px" src="https://camo.githubusercontent.com/8930560b7fec71d3103e26003eef2ce06a657c04d69340814ef134e41ab01e23/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f3334342f646973636f72642d6c6f676f2e706e67" data-canonical-src="https://img.icons8.com/color/344/discord-logo.png" style="max-width: 100%;">
   </a>
 </p>
+
 [![Discord Presence](https://lanyard.cnrad.dev/api/:id)](https://discord.com/users/:429699609997213736)
+
 ---
 ### Tools I Use (Skills) 🛠️
 
