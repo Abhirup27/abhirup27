@@ -23,7 +23,13 @@
 ---
 [**My Resume**](https://github.com/Abhirup27/abhirup27/blob/599685c24428ab676ff5a62e628cb23686819cd0/resume.pdf)
 ---
-
+### Game Jams 🎮
+- [**IGDC BYOG 2025 - Cavesweeper**](https://itch.io/jam/byog/rate/3953906): Game made using C++ and raylib. My first game jam.
+  
+  <a href="https://github.com/Abhirup27/IGDC-game-jam-2025">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abhirup27&repo=IGDC-game-jam-2025&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Cavesweeper github repo"/>
+  </a>
+---
 ### My most recent project
 
 - [**Shopify Store Management App**](https://github.com/Abhirup27/shopify_app): Backend project built using TypeScript, NodeJS, NestJS, ExpressJS, GraphQL, Redis, BullMQ, postgreSQL.
@@ -70,12 +76,6 @@
 
   <a href="https://github.com/meemknight/lowestleveldungeon">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=meemknight&repo=lowestleveldungeon&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Lowest Level Dungeon"/>
-  </a>
-
-- [**Low Level Game Engine**](https://github.com/meemknight/LowLevelGameEngine): Wrote string manipulation functions.
-
-  <a href="https://github.com/meemknight/LowLevelGameEngine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=meemknight&repo=LowLevelGameEngine&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF" alt="Low Level Game Engine"/>
   </a>
 
 ---
