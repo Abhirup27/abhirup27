@@ -13,7 +13,8 @@
 ---
 
 <p align="left">
-🌱 Graduated with a Master degree in Computer Applications, interested in Game Development, Web Development and Embedded Systems(microcontrollers / SBCs). <br>
+🌱 Graduated with a Master degree in Computer Applications, interested in Computer Graphics, Game Development and Back-end Web Development. <br>
+🧠 I use C/C++, Zig for system's programming, game development, computer grahpics and JavaScript and TypeScript for web development. <br>
 🌱 Open to new opportunities.<br>
 💬 Ask me about anything related to web or game development!<br>
 📫 Feel free to connect with me on <a href="https://x.com/ab27roop">Twitter</a> or <a href="https://discordapp.com/users/429699609997213736">Discord</a>!<br>
@@ -56,17 +57,30 @@
 ---
 ### Tools I Use (Skills) 🛠️
 
-### Proficient
+### Web Development
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender Logo" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux Logo" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Photoshop " width="40" height="40" style="border-radius: 50%;" /><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP " width="40" height="40" style="border-radius: 50%;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML (Intermediate)" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"  /><img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js (Intermediate)" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript Logo" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript (intermediate)" width="40" height="40"  /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" alt="Redis (beginner)" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL (beginner)" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS EC2, Route53 (beginner)" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" />
 
-### Intermediate
+### Game Development
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL " width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mariadb/mariadb-original.svg" alt="MariaDB " width="40" height="40"  /><img src="https://upload.wikimedia.org/wikipedia/commons/a/af/GNU_Compiler_Collection_logo.svg" alt="GNU Logo" width="40" height="40" style="border-radius: 50%;" /><img src="https://www.svgrepo.com/show/303266/nodejs-icon-logo.svg" alt="Node.js" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript Logo" width="40" height="40"  /><img src="https://www.svgrepo.com/show/330398/express.svg" alt="Express.js Logo" width="40" height="40"  />
-  
-### Beginner
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zig/zig-original.svg" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40" style="border-radius: 50%;" /> <svg role="img" viewBox="0 0 40 40" xmlns="http://www.w3.org/2000/svg" width="40" height="40">
+    <path d="M0 0v40h40V0H0Zm2.5 2.5h35v35h-35v-35Zm24.688333333333336 25.781666666666666v5.468333333333334h1.5616666666666668v-0.7816666666666666h-0.7816666666666666V28.28333333333333h-0.78Zm2.3433333333333333 0v0.78h0.78v-0.78h-0.78Zm1.5616666666666668 0v5.468333333333334H35v-3.9066666666666667h-3.125v-1.5616666666666668h-0.7816666666666666Zm-17.968333333333334 1.5616666666666668v3.9066666666666667h0.7816666666666666v-3.125h3.125v-0.7816666666666666H13.125Zm4.6883333333333335 0v0.7816666666666666h3.1233333333333335v0.7816666666666666h-3.1233333333333335v2.3433333333333333h3.9050000000000002v-3.9066666666666667h-3.9066666666666667Zm4.6866666666666665 0v3.9066666666666667h3.125v0.7816666666666666H22.5v0.78h3.9066666666666667v-5.466666666666667h-0.7816666666666666v3.1233333333333335h-2.3433333333333333v-3.125H22.5Zm7.031666666666667 0v3.9066666666666667h0.78v-3.9066666666666667h-0.78Zm2.3433333333333333 0.7816666666666666h2.3433333333333333v2.3433333333333333h-2.3433333333333333v-2.3433333333333333Zm-13.281666666666668 1.5633333333333332h2.3433333333333333v0.78h-2.3433333333333333v-0.78Z" fill="#ff0000"/>
+  </svg>
+          
+### IDE
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" alt="Neovim logo" width="40" height="40" style="border-radius: 50%;"/>
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opengl/opengl-original.svg" alt="OpenGL" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React.js " width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" alt="CMake" width="40" height="40" /><img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve" width="40" height="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="border-radius: 50%;" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" alt="Sequelize Logo" width="40" height="40"  /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" style="border-radius: 50%;" />
+### Operating System
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="linux mascot" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="Arch linux btw" width="40" height="40"/>
+          
+### 3D, Video/ Photo editing
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" alt="Blender Logo" width="40" height="40" style="border-radius: 50%;" /><img src="https://upload.wikimedia.org/wikipedia/commons/4/45/The_GIMP_icon_-_gnome.svg" alt="GIMP " width="40" height="40" style="border-radius: 50%;" /> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4d/DaVinci_Resolve_Studio.png" alt="Davinci Resolve" width="40" height="40" />
+
+### Other (Not used in a while)
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python Logo" width="40" height="40" style="border-radius: 50%;" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40" style="border-radius: 50%;" />
+ 
 
 ---
 
